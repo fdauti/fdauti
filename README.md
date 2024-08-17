@@ -1,10 +1,7 @@
-## Hi there 👋'm Jon
-
+## Hi there 👋 I'm Jon
 <!--
 **fdauti/fdauti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,10 +10,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fdauti&show_icons=true&locale=en&layout=compact" alt="fdauti" /></p>
 -->
-
 - 🔭 I’m currently exploring **data analysis with Python**
 - 🌱 I also plan to experiment with **algorithmic trading strategies using Python**
 - 👯 I’m looking to dive deeper on **network automation related projects**
