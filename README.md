@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🌱 I also plan to experiment with **algorithmic trading strategies using Python**
 - 👯 I’m looking to dive deeper on **network automation related projects**
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/jondauti/)
-- 📝 I hope to again start to write articles on [https://jondauti.wordpress.com/](https://jondauti.wordpress.com/)
+- 📝 I hope to start updating my blog soon [https://jondauti.wordpress.com/](https://jondauti.wordpress.com/)
 - ⚡ Fun fact **I do have a YT channel which i hope to update more frequently**
 - 😄 Pronouns: he/him
 
