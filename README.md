@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fdauti&show_icons=true&locale=en&layout=compact" alt="fdauti" /></p>
 -->
 - 🔭 Currently exploring **data analysis with Python**
-- 🌱 Looking to dive deeper on **network automation related projects using Python libraries (paramiko, icmplib, concurrent.futures, logging, re)**
+- 🌱 Looking to dive deeper on **network automation scripts using Python libraries (paramiko, icmplib, concurrent.futures, logging, re)**
 - 🤔 Also planning to experiment with **algorithmic trading strategies using Pandas and other Python libraries**
 - 📝 Hope to start updating my old blog soon [https://jondauti.wordpress.com/](https://jondauti.wordpress.com/)
 - ⚡ Fun fact **I do have a YT channel which i hope to upload some content occasionally**
