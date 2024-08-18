@@ -12,12 +12,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fdauti&show_icons=true&locale=en&layout=compact" alt="fdauti" /></p>
 -->
-- 🔭 I’m currently exploring **data analysis with Python**
-- 🌱 I also plan to experiment with **algorithmic trading strategies using Python**
-- 👯 I’m looking to dive deeper on **network automation related projects**
-- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/jondauti/)
-- 📝 I hope to start updating my blog soon [https://jondauti.wordpress.com/](https://jondauti.wordpress.com/)
-- ⚡ Fun fact **I do have a YT channel which i hope to update more frequently**
+- 🔭 Currently exploring **data analysis with Python**
+- 🌱 Looking to dive deeper on **network automation related projects using Python libraries (paramiko, icmplib, concurrent.futures, logging, re)**
+- 🤔 Also planning to experiment with **algorithmic trading strategies using Pandas and other Python libraries**
+- 📝 Hope to start updating my old blog soon [https://jondauti.wordpress.com/](https://jondauti.wordpress.com/)
+- ⚡ Fun fact **I do have a YT channel which i hope to upload some content occasionally**
 - 😄 Pronouns: he/him
 
 <h3 align="left">Connect with me:</h3>
