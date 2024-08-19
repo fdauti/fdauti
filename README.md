@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 - 🌱 Looking to dive deeper on **network automation scripts using Python libraries (paramiko, icmplib, concurrent.futures, etc.)**
 - 🤔 Also planning to experiment with **algorithmic trading strategies using Pandas and other Python libraries**
 - 📝 Hope to soon start posting new content on my old blog [https://jondauti.wordpress.com/](https://jondauti.wordpress.com/)
-- ⚡ Fun fact **I do have a YT channel on which I upload content occasionally**
-- 😄 Pronouns: he/him
+- 😄 Fun fact **I do have a YT channel on which I upload content occasionally**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
