@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fdauti&show_icons=true&locale=en&layout=compact" alt="fdauti" /></p>
 ![](https://komarev.com/ghpvc/?username=fdauti)
 -->
-⚡ Looking to dive deeper on **network automation scripts using Python libraries (paramiko, icmplib, concurrent.futures, etc.)**  
-🔭 Currently exploring **algorithmic trading strategies using Python libraries**   
-😄 Fun fact I do have a YT channel on which I upload content occasionally and a wordpress blog  
+🔭 Testing and optimizing custom trading bots leveraging **algorithmic trading strategies using Python libraries** (backtesting, pandas_ta, yfinance, etc.)
+⚡ Previous experience creating **network automation scripts using Python libraries** (paramiko, icmplib, concurrent.futures, etc.) 
+😄 Fun fact, I do have a YT channel and wordpress blog on which I upload content occasionally
 <!--- 
 🌱 Also planning to experiment with 
 📝 Hope to soon start posting new content on my old blog https://jondauti.wordpress.com 
