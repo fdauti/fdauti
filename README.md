@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Jon and I'm ...
+### Hi there 👋 I'm Jon and I'm currently intrested in:
 <!--
 **fdauti/fdauti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -12,10 +12,8 @@ Here are some ideas to get you started:
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fdauti&show_icons=true&locale=en&layout=compact" alt="fdauti" /></p>
 ![](https://komarev.com/ghpvc/?username=fdauti)
 -->
-- 🔭 Building trading bots leveraging **algorithmic trading strategies using Python libraries and APIs** (backtesting, pandas_ta, etc.)
-- ⚡ Experienced creating **network automation scripts using Python** (paramiko, icmplib, concurrent.futures, re, pyyaml, etc.)
-- 😄 Fun fact, I do have a YT channel and wordpress blog on which I upload content occasionally
-
+- 🔭 Coding trading strategies and bots leveraging ** Python libraries and APIs** (backtesting, pandas_ta, etc.)
+- ⚡ Creating network automation scripts using Python (paramiko, icmplib, concurrent.futures, re, pyyaml, etc.)
 <!--- 
 🌱 Also planning to experiment with 
 📝 Hope to soon start posting new content on my old blog https://jondauti.wordpress.com 
@@ -23,9 +21,10 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jondauti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jondauti" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/14031998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14031998" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@fdauti_ca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fdauti_ca" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jondauti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14031998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@fdauti_ca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YT Channel" height="30" width="40" /></a>
+<a href="https://jondauti.wordpress.com/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="Blog" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Tech Stack:</h3>
