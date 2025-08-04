@@ -24,8 +24,10 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/jondauti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14031998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" /></a>
 <a href="https://jondauti.wordpress.com/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="Blog" height="30" width="40" /></a>
+<!-- 
 <a href="https://rumble.com/user/FD3rd/" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/rumble-2.svg" alt="Rumble" height="30" width="40" /></a>
-<!-- <a href="https://www.youtube.com/@fdauti_ca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YT Channel" height="30" width="40" /></a> -->
+<a href="https://www.youtube.com/@fdauti_ca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YT Channel" height="30" width="40" /></a> 
+-->
 </p>
 
 <h3 align="left">Tech Stack:</h3>
