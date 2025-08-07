@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fdauti&show_icons=true&locale=en&layout=compact" alt="fdauti" /></p>
 ![](https://komarev.com/ghpvc/?username=fdauti)
 -->
-- 🔭 Coding trading strategies and bots leveraging Python libraries and APIs (backtesting, pandas_ta, etc.)
+- 🔭 Coding trading strategies and bots leveraging Python libraries and APIs (backtesting, pandas_ta, yfinance)
 - ⚡ Creating network automation scripts using Python (paramiko, icmplib, concurrent.futures, re, pyyaml, etc.)
 <!--
 🌱 Also planning to experiment with 
