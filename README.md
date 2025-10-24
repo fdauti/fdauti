@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=fdauti)
 -->
 - 🔭 Coding trading strategies and bots leveraging Python libraries and APIs (backtesting, pandas_ta, yfinance)
-- ⚡ Creating network automation scripts using Python (paramiko, icmplib, concurrent.futures, re, pyyaml, etc.)
+- ⚡ Coding network automation scripts using Python (paramiko, icmplib, concurrent.futures, re, pyyaml, etc.)
 <!--
 🌱 Also planning to experiment with 
 📝 Hope to soon start posting new content on my old blog https://jondauti.wordpress.com 
