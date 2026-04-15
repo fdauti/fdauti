@@ -10,6 +10,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 - 🔭 Coding trading strategies and bots leveraging Python libraries and APIs (backtesting, pandas_ta, yfinance)
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fdauti&show_icons=true&locale=en&layout=compact" alt="fdauti" /></p>
 ![](https://komarev.com/ghpvc/?username=fdauti)
 -->
@@ -28,7 +29,6 @@ Here are some ideas to get you started:
 <a href="https://rumble.com/user/FD3rd/" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/rumble-2.svg" alt="Rumble" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@fdauti_ca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YT Channel" height="30" width="40" /></a> 
 -->
-</p>
 
 <h3 align="left">Tech Stack:</h3>
 <p align="left"> 
@@ -42,6 +42,7 @@ Here are some ideas to get you started:
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" alt="sqlite" width="60" height="40"/> </a> 
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" alt="azure" width="60" height="40"/> </a> 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="40"/> </a> 
+    
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg" alt="bash" width="60" height="40"/> </a> 
   </p>
 
