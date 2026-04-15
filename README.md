@@ -1,5 +1,6 @@
-### Intrested in:
+
 <!--
+### Intrested in:
 **fdauti/fdauti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
@@ -14,7 +15,7 @@ Here are some ideas to get you started:
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fdauti&show_icons=true&locale=en&layout=compact" alt="fdauti" /></p>
 ![](https://komarev.com/ghpvc/?username=fdauti)
 -->
-- ⚡ Network automation using Python (paramiko, icmplib, concurrent.futures, re, pyyaml, etc.)
+**⚡ Network automation using Python (paramiko, icmplib, concurrent.futures, re, pyyaml, etc.)**
 <!--
 🌱 Also planning to experiment with 
 📝 Hope to soon start posting new content on my old blog https://jondauti.wordpress.com 
