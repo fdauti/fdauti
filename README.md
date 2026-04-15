@@ -9,11 +9,11 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
+- 🔭 Coding trading strategies and bots leveraging Python libraries and APIs (backtesting, pandas_ta, yfinance)
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fdauti&show_icons=true&locale=en&layout=compact" alt="fdauti" /></p>
 ![](https://komarev.com/ghpvc/?username=fdauti)
 -->
-- 🔭 Coding trading strategies and bots leveraging Python libraries and APIs (backtesting, pandas_ta, yfinance)
-- ⚡ Coding network automation scripts using Python (paramiko, icmplib, concurrent.futures, re, pyyaml, etc.)
+- ⚡ Network automation using Python (paramiko, icmplib, concurrent.futures, re, pyyaml, etc.)
 <!--
 🌱 Also planning to experiment with 
 📝 Hope to soon start posting new content on my old blog https://jondauti.wordpress.com 
