@@ -71,11 +71,6 @@ Here are some ideas to get you started:
         </a>
       </td>
       <td align="center">
-        <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" alt="sqlite" width="60" height="40"/>
-        </a>
-      </td>
-      <td align="center">
         <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
           <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" alt="azure" width="60" height="40"/>
         </a>
